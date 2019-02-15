@@ -1,8 +1,8 @@
 {
-    "id": "ae5a6aa2-027d-4dce-8cfd-8519d67a15c8",
+    "id": "f760023b-990c-4c18-b003-815f6900ae38",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objCreature",
+    "name": "objWall",
     "eventList": [
         
     ],
@@ -23,7 +23,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": false,
-    "spriteId": "9ae1cbeb-2cff-41b5-94e3-4e07a8238bec",
+    "solid": true,
+    "spriteId": "fc95e4fe-ffe9-40f0-9faa-cab2d6fbcc51",
     "visible": true
 }

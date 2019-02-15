@@ -5,16 +5,6 @@
     "name": "objCharacter",
     "eventList": [
         {
-            "id": "2ce3bb0a-cc39-4b48-8798-1af41caa9cb7",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "33a35582-c4f1-4f8f-a889-b093d79b889b"
-        },
-        {
             "id": "7d467fb3-b251-466d-9ac6-4b4e981e3f5c",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -22,6 +12,16 @@
             "collisionObjectId": "ae5a6aa2-027d-4dce-8cfd-8519d67a15c8",
             "enumb": 0,
             "eventtype": 4,
+            "m_owner": "33a35582-c4f1-4f8f-a889-b093d79b889b"
+        },
+        {
+            "id": "2832a2c1-69de-4976-99ee-a9723b34c6a8",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
             "m_owner": "33a35582-c4f1-4f8f-a889-b093d79b889b"
         }
     ],
@@ -98,9 +98,23 @@
             "value": "100",
             "varName": "stamina",
             "varType": 1
+        },
+        {
+            "id": "26a95a18-6bb6-4c80-8db5-c2a33d6644ab",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "10",
+            "varName": "player_speed",
+            "varType": 0
         }
     ],
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "09dae9be-ee00-40fd-a8f6-6a1a6c3a929a",
     "visible": true
 }
