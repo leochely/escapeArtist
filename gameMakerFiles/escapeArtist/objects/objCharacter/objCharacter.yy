@@ -23,6 +23,16 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "33a35582-c4f1-4f8f-a889-b093d79b889b"
+        },
+        {
+            "id": "94c99ea4-4151-4290-a97c-8981c620b5bb",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 64,
+            "eventtype": 8,
+            "m_owner": "33a35582-c4f1-4f8f-a889-b093d79b889b"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -82,7 +92,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "100",
-            "varName": "health",
+            "varName": "playerHealth",
             "varType": 1
         },
         {
@@ -96,7 +106,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "100",
-            "varName": "stamina",
+            "varName": "playerStamina",
             "varType": 1
         },
         {
@@ -110,7 +120,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "10",
-            "varName": "player_speed",
+            "varName": "playerSpeed",
             "varType": 0
         }
     ],
