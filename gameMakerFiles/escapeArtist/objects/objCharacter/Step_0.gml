@@ -1,6 +1,14 @@
 var dx = 0;
 var dy = 0;
 
+if(keyboard_check(vk_shift) && playerStamina > 0){
+	playerSpeed = 20;
+	playerStamina--;
+}
+else{
+	playerSpeed = 10;
+}
+
 if( keyboard_check(vk_left)){
 	image_index=0;
 	image_speed = 1.0;
