@@ -29,3 +29,23 @@ if(place_meeting(x, y + (dy*playerSpeed), objWall)){
 else{
 	y += dy * playerSpeed;
 }
+
+// TODO Increase this number so they spawn less frequently
+// Spawn staminup powerup
+random_num = irandom(100)
+if (random_num == 1) {
+	instance_create_layer(irandom(room_width), irandom(room_height), 0, objStaminUp);
+}
+
+// TODO once walls are placed around outside of room erase this
+if (x < 0) {
+	x = 0;
+} else if (x > room_width) {
+	x = room_width;
+}
+
+if (y < 0) {
+	y = 0;
+} else if (y > room_height) {
+	y = room_height;
+}

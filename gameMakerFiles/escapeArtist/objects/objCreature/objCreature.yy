@@ -41,7 +41,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "254e3307-a9d0-4492-8df7-1855d4b42cc9",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "3",
+            "varName": "creatureSpeed",
+            "varType": 1
+        }
+    ],
     "solid": false,
     "spriteId": "9ae1cbeb-2cff-41b5-94e3-4e07a8238bec",
     "visible": true

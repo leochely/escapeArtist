@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "3769c37b-6f0d-4ec4-8e34-41c5a78887ec",
+            "Value": {
+                "id": "38105076-018e-4ac6-8e42-478565e6aacd",
+                "resourcePath": "sprites\\StaminUp\\StaminUp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "400921a0-7e74-405b-8651-d0b23a65376e",
             "Value": {
                 "id": "a4f87fd5-ffc0-4845-b2af-1ec04c2d8f83",
@@ -92,6 +100,14 @@
                 "id": "3018c523-3995-4268-8e5a-3c1e46948213",
                 "resourcePath": "views\\43c6121a-abb1-49e7-95d2-73c1af2ab2db.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4ac8f063-2eb8-4176-9f0d-b8cd7f9c8b0d",
+            "Value": {
+                "id": "92cae757-1a68-4c1d-8a0e-7916e7b622be",
+                "resourcePath": "objects\\objStaminUp\\objStaminUp.yy",
+                "resourceType": "GMObject"
             }
         },
         {
