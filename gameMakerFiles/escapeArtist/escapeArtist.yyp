@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "16d0c3a2-7c5e-42c9-b3b9-f20a74d38560",
+            "Value": {
+                "id": "bf2b8d6d-1b1f-46a4-a972-1c63e2db4ea5",
+                "resourcePath": "sounds\\sndBackground\\sndBackground.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "2039a75c-4a4f-4482-9668-6ceb4b9c0fda",
             "Value": {
                 "id": "80b7b893-ea37-46a6-bedb-3cf3ae87ab89",
@@ -252,6 +260,14 @@
                 "id": "b005ac57-e6f3-44f4-9871-2134a558d79d",
                 "resourcePath": "views\\f89f1d3c-8770-4803-85ce-e597e6e96901.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fa1ce52c-16b3-465e-a6a9-fbdafc8c103f",
+            "Value": {
+                "id": "790a4692-b3f1-4b4a-a1b6-b855cbf81bf6",
+                "resourcePath": "objects\\objMusic\\objMusic.yy",
+                "resourceType": "GMObject"
             }
         },
         {
