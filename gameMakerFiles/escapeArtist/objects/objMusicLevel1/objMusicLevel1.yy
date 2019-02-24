@@ -2,7 +2,7 @@
     "id": "fa1ce52c-16b3-465e-a6a9-fbdafc8c103f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objMusic",
+    "name": "objMusicLevel1",
     "eventList": [
         {
             "id": "2a97924d-be18-4d72-9218-cde469739850",
