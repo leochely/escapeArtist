@@ -4,7 +4,7 @@
     "mvc": "1.1",
     "name": "400921a0-7e74-405b-8651-d0b23a65376e-room",
     "children": [
-        "a5d488fb-d951-4544-a9ff-dc5f547b9627"
+        
     ],
     "filterType": "GMFolder",
     "folderName": "400921a0-7e74-405b-8651-d0b23a65376e",
