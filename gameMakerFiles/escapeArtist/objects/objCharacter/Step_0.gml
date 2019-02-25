@@ -1,5 +1,5 @@
-// Check to see if player is holding down shift key
-if(keyboard_check(vk_shift) && playerStamina > 0){
+// Check to see if player is holding down shift key and a movement key
+if(keyboard_check(vk_shift) && playerStamina > 0 && (keyboard_check(vk_up) || keyboard_check(vk_down) || keyboard_check(vk_left)) || keyboard_check(vk_right)){
 	playerSpeed = 20;
 	playerStamina--;
 }
@@ -34,7 +34,7 @@ else{
 // Spawn staminup powerup
 random_num = irandom(100)
 if (random_num == 1) {
-	instance_create_layer(irandom(room_width), irandom(room_height), 0, objStaminUp);
+	instance_create_layer(irandom(room_width), irandom(room_height), "Instances", objStaminUp);
 }
 
 // TODO once walls are placed around outside of room erase this
