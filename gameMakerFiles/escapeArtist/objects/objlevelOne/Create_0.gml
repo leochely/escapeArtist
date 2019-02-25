@@ -4,4 +4,3 @@
 messageDisplay = 5*room_speed; //5s 
 
 objCharacter.canMove = false;
-

@@ -642,7 +642,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/objlevelOne\/objlevelOne.yy",
+                "resourcePath": "objects\/objLevelOne\/objLevelOne.yy",
                 "resourceType": "GMObject"
             }
         },

@@ -2,7 +2,7 @@
     "id": "8ff43f8b-537a-4f9f-a4b0-8c6ae28488de",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objlevelOne",
+    "name": "objLevelOne",
     "eventList": [
         {
             "id": "b8f9236d-40de-4b78-ae2a-021ee829b9e0",
@@ -51,7 +51,50 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "66e79180-8eb4-4255-bbc8-9513e2384db5",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "hasBlue",
+            "varType": 3
+        },
+        {
+            "id": "ea9e8644-8751-4545-aa23-68e733b57c71",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "hasRed",
+            "varType": 3
+        },
+        {
+            "id": "5651d6a1-e302-42ca-89c1-ab884ddfdb6a",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "hasGreen",
+            "varType": 3
+        }
+    ],
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
