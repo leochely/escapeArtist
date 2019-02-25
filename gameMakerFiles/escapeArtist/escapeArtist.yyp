@@ -476,6 +476,25 @@
             }
         },
         {
+            "Key": "64b0fc2f-2635-401c-8e2a-9d678d31864c",
+            "Value": {
+                "id": "334efd5e-af54-4386-a6ac-afeacc2432b3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objWall\/objWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "66c024fb-bc5d-41e3-911d-f2b3352f9e9f",
             "Value": {
                 "id": "eaae3777-e75b-4738-9359-f0a0b5a4e6a3",
@@ -606,6 +625,25 @@
                 ],
                 "resourcePath": "objects\/objCamera\/objCamera.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "95c0ff90-06c5-4134-acbf-882944b00c30",
+            "Value": {
+                "id": "ffe1ecc8-88e7-4b05-b85c-76e1e89403c7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/95c0ff90-06c5-4134-acbf-882944b00c30.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -756,7 +794,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/objWall2\/objWall2.yy",
+                "resourcePath": "objects\/objWallTree2\/objWallTree2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1060,7 +1098,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/objWall\/objWall.yy",
+                "resourcePath": "objects\/objWallTree\/objWallTree.yy",
                 "resourceType": "GMObject"
             }
         },
