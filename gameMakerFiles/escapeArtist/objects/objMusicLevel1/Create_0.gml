@@ -1,3 +1,3 @@
 /// @description Handles music
 
-audio_play_sound(sndBackground, 3, true);
+audio_play_sound(sndLvl1, 3, true);
