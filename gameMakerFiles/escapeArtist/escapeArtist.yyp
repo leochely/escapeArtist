@@ -623,7 +623,26 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/objCamera\/objCamera.yy",
+                "resourcePath": "objects\/objCameraLevelOne\/objCameraLevelOne.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8ff43f8b-537a-4f9f-a4b0-8c6ae28488de",
+            "Value": {
+                "id": "99072de0-9c72-44ae-a826-a6ce087ace8f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objlevelOne\/objlevelOne.yy",
                 "resourceType": "GMObject"
             }
         },

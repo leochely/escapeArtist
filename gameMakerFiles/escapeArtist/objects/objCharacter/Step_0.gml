@@ -1,5 +1,5 @@
 // Check to see if player is holding down shift key and a movement key
-if(keyboard_check(vk_shift) && playerStamina > 0 && (keyboard_check(vk_up) || keyboard_check(vk_down) || keyboard_check(vk_left)) || keyboard_check(vk_right)){
+if(keyboard_check(vk_shift) && playerStamina > 0 && (keyboard_check(vk_up) || keyboard_check(vk_down) || keyboard_check(vk_left) || keyboard_check(vk_right))){
 	playerSpeed = 20;
 	playerStamina--;
 }
