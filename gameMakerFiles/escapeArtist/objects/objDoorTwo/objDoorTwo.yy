@@ -1,8 +1,8 @@
 {
-    "id": "6afde0bd-c177-4cc0-861e-1b0c84dffe2f",
+    "id": "dc8e683a-8cd5-4b1e-abda-f129c990fa0c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objDoor",
+    "name": "objDoorTwo",
     "eventList": [
         
     ],

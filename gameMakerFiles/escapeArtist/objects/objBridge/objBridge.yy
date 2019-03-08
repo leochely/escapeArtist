@@ -1,8 +1,8 @@
 {
-    "id": "9dce964d-588b-4dcb-88ae-7896e1d66652",
+    "id": "57432fb0-7d45-4ff5-8b2e-5a24b0a2e93d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objRiver",
+    "name": "objBridge",
     "eventList": [
         
     ],
@@ -23,7 +23,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
-    "spriteId": "5dbd8ed2-9c3a-462e-a493-9234b5bede88",
+    "solid": false,
+    "spriteId": "13785a62-f56f-4a32-bd8f-cc5d07e81992",
     "visible": true
 }

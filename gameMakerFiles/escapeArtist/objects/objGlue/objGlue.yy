@@ -1,8 +1,8 @@
 {
-    "id": "9dce964d-588b-4dcb-88ae-7896e1d66652",
+    "id": "9cb9c9d9-937f-45e6-bdc7-53bf4a52112c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objRiver",
+    "name": "objGlue",
     "eventList": [
         
     ],
@@ -23,7 +23,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
-    "spriteId": "5dbd8ed2-9c3a-462e-a493-9234b5bede88",
+    "solid": false,
+    "spriteId": "3769c37b-6f0d-4ec4-8e34-41c5a78887ec",
     "visible": true
 }

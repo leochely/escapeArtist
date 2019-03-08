@@ -1,8 +1,8 @@
 {
-    "id": "9dce964d-588b-4dcb-88ae-7896e1d66652",
+    "id": "6afde0bd-c177-4cc0-861e-1b0c84dffe2f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objRiver",
+    "name": "objDoorOne",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": true,
-    "spriteId": "5dbd8ed2-9c3a-462e-a493-9234b5bede88",
+    "spriteId": "074c412d-21f5-4701-a98e-09b03ad6b3f1",
     "visible": true
 }

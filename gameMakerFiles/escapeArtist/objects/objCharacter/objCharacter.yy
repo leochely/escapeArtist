@@ -35,16 +35,6 @@
             "m_owner": "33a35582-c4f1-4f8f-a889-b093d79b889b"
         },
         {
-            "id": "49fc1605-875a-4390-9877-0564ef2812dc",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "4ac8f063-2eb8-4176-9f0d-b8cd7f9c8b0d",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "33a35582-c4f1-4f8f-a889-b093d79b889b"
-        },
-        {
             "id": "b64e86cb-7051-4ddc-bca8-0fed470d6b55",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -90,6 +80,66 @@
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "6afde0bd-c177-4cc0-861e-1b0c84dffe2f",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "33a35582-c4f1-4f8f-a889-b093d79b889b"
+        },
+        {
+            "id": "fabf711b-2e59-4b69-8c86-dc57ce9f7e0b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "d4fa0d90-9450-431c-9352-dad2a5d1528d",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "33a35582-c4f1-4f8f-a889-b093d79b889b"
+        },
+        {
+            "id": "28f03bdc-1630-46d6-a3d4-b1e924dcb2a4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "df224c25-d2e8-4c53-83f8-d1b29964195e",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "33a35582-c4f1-4f8f-a889-b093d79b889b"
+        },
+        {
+            "id": "02410dbf-884c-4bf3-ad49-7cda41956626",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 32,
+            "eventtype": 9,
+            "m_owner": "33a35582-c4f1-4f8f-a889-b093d79b889b"
+        },
+        {
+            "id": "c7da4a68-78ba-43ef-9d5f-3c82c3812f35",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "9dce964d-588b-4dcb-88ae-7896e1d66652",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "33a35582-c4f1-4f8f-a889-b093d79b889b"
+        },
+        {
+            "id": "718950c7-49b6-47cb-b058-315c45e23464",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "dc8e683a-8cd5-4b1e-abda-f129c990fa0c",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "33a35582-c4f1-4f8f-a889-b093d79b889b"
+        },
+        {
+            "id": "db5716e6-7391-4a1f-b564-920d036ee1b0",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "6e2f098f-2c54-43be-9b02-18121d23d4a1",
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "33a35582-c4f1-4f8f-a889-b093d79b889b"
@@ -179,7 +229,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "10",
+            "value": "7",
             "varName": "playerSpeed",
             "varType": 0
         },

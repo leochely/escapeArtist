@@ -1,10 +1,19 @@
 {
-    "id": "4ac8f063-2eb8-4176-9f0d-b8cd7f9c8b0d",
+    "id": "ef10f78c-7652-4aeb-aed7-9cf7f43956af",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objStaminUp",
+    "name": "objRestoreStaminaTwo",
     "eventList": [
-        
+        {
+            "id": "7a13505b-e38e-4ef3-a52b-6ecd025e790c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "33a35582-c4f1-4f8f-a889-b093d79b889b",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "ef10f78c-7652-4aeb-aed7-9cf7f43956af"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "3769c37b-6f0d-4ec4-8e34-41c5a78887ec",
+    "spriteId": "e8a007a2-e9af-4f1d-b8e9-63459da92d82",
     "visible": true
 }

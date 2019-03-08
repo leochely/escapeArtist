@@ -1,38 +1,28 @@
 {
-    "id": "8ff43f8b-537a-4f9f-a4b0-8c6ae28488de",
+    "id": "82e3ec28-6bb2-4823-aa7e-f57b850c3bc3",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objLevelOne",
+    "name": "objCameraLevelTwo",
     "eventList": [
         {
-            "id": "b8f9236d-40de-4b78-ae2a-021ee829b9e0",
+            "id": "efa0f428-eddf-48b9-ab77-b60d6f28087f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "8ff43f8b-537a-4f9f-a4b0-8c6ae28488de"
+            "m_owner": "82e3ec28-6bb2-4823-aa7e-f57b850c3bc3"
         },
         {
-            "id": "38558f1f-0ec2-4f32-b47d-029a91d5e957",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "8ff43f8b-537a-4f9f-a4b0-8c6ae28488de"
-        },
-        {
-            "id": "f30ca14a-f733-4a82-81a9-679fded0f383",
+            "id": "b24cf06d-706e-40d4-87b6-10a8556ba479",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "8ff43f8b-537a-4f9f-a4b0-8c6ae28488de"
+            "m_owner": "82e3ec28-6bb2-4823-aa7e-f57b850c3bc3"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -51,22 +41,7 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": [
-        {
-            "id": "5651d6a1-e302-42ca-89c1-ab884ddfdb6a",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "hasGreen",
-            "varType": 3
-        }
-    ],
+    "properties": null,
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
