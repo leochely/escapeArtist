@@ -286,6 +286,25 @@
             }
         },
         {
+            "Key": "36cee7cf-838c-4825-94f2-8fc6ebd71b28",
+            "Value": {
+                "id": "ae1bbed8-4da1-4cc8-87f2-05b5bff3c85d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objBlackPaint\/objBlackPaint.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "371b2de9-8471-4d6e-91c6-b6c0626a8817",
             "Value": {
                 "id": "44bfb3b6-dea9-4382-ba9c-81a0132d3708",
@@ -415,6 +434,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/sprRiver\/sprRiver.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "60d51751-6975-42a8-b821-1c2db25717f0",
+            "Value": {
+                "id": "8d97fc7b-a0d6-4cd5-9ccb-0bf33c06a961",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprPowerUpYellow\/sprPowerUpYellow.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1160,6 +1198,44 @@
             }
         },
         {
+            "Key": "df1bb4d3-142b-4232-a47f-fecfef4b01df",
+            "Value": {
+                "id": "72c331b4-3719-4c84-88fd-e42347612159",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprPowerUpBlack\/sprPowerUpBlack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "df224c25-d2e8-4c53-83f8-d1b29964195e",
+            "Value": {
+                "id": "5ac1b79d-9e3d-4126-a408-768ba0d6b874",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objPowerUpYellow\/objPowerUpYellow.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e5330856-4890-4174-8f0b-b0d39f7e3c92",
             "Value": {
                 "id": "5a434469-b9af-4a5a-a155-3dd1604ab359",
@@ -1232,6 +1308,25 @@
                     "default"
                 ],
                 "resourcePath": "objects\/objBackgroundMenu\/objBackgroundMenu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f1962149-ac46-4616-9bfe-011c75582306",
+            "Value": {
+                "id": "6c1ac92d-5a1d-47a0-bf69-f133890dafb6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objRestoreStamina\/objRestoreStamina.yy",
                 "resourceType": "GMObject"
             }
         },
