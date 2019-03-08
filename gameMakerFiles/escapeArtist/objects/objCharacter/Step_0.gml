@@ -32,14 +32,8 @@ if(canMove){
 		y += dy * playerSpeed;
 	}
 
-	// TODO Increase this number so they spawn less frequently
-	// Spawn staminup powerup
-	random_num = irandom(100)
-	if (random_num == 1) {
-		instance_create_layer(irandom(room_width), irandom(room_height), "Instances", objStaminUp);
-	}
+	// TODO redirect to end game when playerhealth == 0
 
-	// TODO once walls are placed around outside of room erase this
 	if (x < 0) {
 		x = 0;
 	} else if (x > room_width) {

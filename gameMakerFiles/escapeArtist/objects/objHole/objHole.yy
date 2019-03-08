@@ -1,8 +1,8 @@
 {
-    "id": "6afde0bd-c177-4cc0-861e-1b0c84dffe2f",
+    "id": "ae04a103-df54-4ef8-b40b-9bfe74b86559",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objDoor",
+    "name": "objHole",
     "eventList": [
         
     ],
@@ -23,7 +23,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
-    "spriteId": "074c412d-21f5-4701-a98e-09b03ad6b3f1",
+    "solid": false,
+    "spriteId": "cf58af76-d2f9-4b9e-acb0-0fe5aa40dfb9",
     "visible": true
 }
