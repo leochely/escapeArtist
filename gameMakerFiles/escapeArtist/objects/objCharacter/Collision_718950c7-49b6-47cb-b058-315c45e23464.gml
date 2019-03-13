@@ -1,3 +1,4 @@
 /// @description go back to start screen for now
 
-room_goto(menu)
+instance_destroy(self);
+room_goto(menu);
