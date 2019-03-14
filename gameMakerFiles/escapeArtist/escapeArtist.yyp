@@ -286,6 +286,25 @@
             }
         },
         {
+            "Key": "2d45b11b-b4a6-42f3-8aaa-d4dcf4b3f90a",
+            "Value": {
+                "id": "82036786-e7ff-478f-87e3-59eaa111203c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objLevelFinal\/objLevelFinal.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "33a35582-c4f1-4f8f-a889-b093d79b889b",
             "Value": {
                 "id": "151244bc-bd0c-4430-b78e-270764762f21",
@@ -453,6 +472,44 @@
                     "default"
                 ],
                 "resourcePath": "views\/43c6121a-abb1-49e7-95d2-73c1af2ab2db.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4a88e198-6869-402d-a1d8-5071381c087c",
+            "Value": {
+                "id": "69f3a3ec-5602-40fc-8133-e242ab8e9f42",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objDoorFinal\/objDoorFinal.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "52702400-f59c-4d2c-8a49-393ad5db9ad0",
+            "Value": {
+                "id": "1559ee7e-176d-4015-8db6-ca91430951f6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/52702400-f59c-4d2c-8a49-393ad5db9ad0.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -951,6 +1008,25 @@
             }
         },
         {
+            "Key": "a20c6e98-8e43-48aa-be7a-a132c7715bde",
+            "Value": {
+                "id": "3571e8a5-17e6-4008-b982-d31e4d82634f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objCemeraLevelFinal\/objCemeraLevelFinal.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a4348ad3-1dc0-4634-98e4-455532f122eb",
             "Value": {
                 "id": "b23e5ebd-6ef0-445c-913d-da3d13792e7b",
@@ -1214,6 +1290,25 @@
                 ],
                 "resourcePath": "views\/c2bda5f5-ee7f-4c91-acfc-46a7d33ba65c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c7cf2b0e-20b4-471b-aaf8-cdbae304f5be",
+            "Value": {
+                "id": "08a19a0b-e5e9-4647-9c3b-86c75574fa90",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/levelFinal\/levelFinal.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

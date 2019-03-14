@@ -1,4 +1,4 @@
-/// @description go back to start screen for now
+/// @description go to final level
 
 instance_destroy(self);
-room_goto(menu);
+room_goto(levelFinal);
