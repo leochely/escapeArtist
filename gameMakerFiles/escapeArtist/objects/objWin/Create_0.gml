@@ -1,5 +1,6 @@
 /// @description Initializes position
 
-x = room.sprite_width/3
-y = room.image_blend/6
 
+draw_text(room_width/4, room_height/6, message);
+
+draw_text(70, 2*room_height/3, instructions);

@@ -52,9 +52,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "You're free!\\nUntil you paint again...",
+            "value": "You're free!\\nUntil you paint again...\"",
             "varName": "message",
-            "varType": 0
+            "varType": 2
         },
         {
             "id": "531f713e-073e-4019-b1b0-a3bc5b62c2f9",
@@ -68,7 +68,7 @@
             "resourceFilter": 1023,
             "value": "Press Space to go back to the Main Menu",
             "varName": "instructions",
-            "varType": 0
+            "varType": 2
         }
     ],
     "solid": false,

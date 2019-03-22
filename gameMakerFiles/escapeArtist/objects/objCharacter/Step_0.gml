@@ -2,10 +2,12 @@
 
 if(canMove){
 	image_speed = 1;
+	
+	// Sends player to end screnn if dead
 	if playerHealth <= 0 {
 		instance_destroy(all);
 		audio_stop_all();
-		room_goto(menu)
+		room_goto(deathScreen)
 	}
 	
 	if(keyboard_check(vk_shift) && playerStamina > 0 && (keyboard_check(vk_up) || keyboard_check(vk_down) || keyboard_check(vk_left) || keyboard_check(vk_right))){
@@ -48,9 +50,8 @@ if(canMove){
 	else{
 		y += dy * moveSpeed;
 	}
-
-	// TODO redirect to end game when playerhealth == 0
-
+	
+	// Checks that player in the room
 	if (x < 0) {
 		x = 0;
 	} else if (x > room_width) {

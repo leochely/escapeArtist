@@ -42,7 +42,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "You died\\nTry to escape again...",
+            "value": "     You died\\nTry to escape again...",
             "varName": "message",
             "varType": 2
         },

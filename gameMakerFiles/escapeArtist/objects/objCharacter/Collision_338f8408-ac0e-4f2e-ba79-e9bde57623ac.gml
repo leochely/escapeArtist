@@ -1,4 +1,4 @@
 /// @description Goes back to menu for now
 
 instance_destroy(self);
-room_goto(menu);
+room_goto(winScreen);
