@@ -362,6 +362,25 @@
             }
         },
         {
+            "Key": "35deab3e-c450-423d-900c-9e6b17a63e87",
+            "Value": {
+                "id": "1ece39ab-1c92-45aa-8280-476124f69471",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/35deab3e-c450-423d-900c-9e6b17a63e87.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "36cee7cf-838c-4825-94f2-8fc6ebd71b28",
             "Value": {
                 "id": "ae1bbed8-4da1-4cc8-87f2-05b5bff3c85d",
@@ -473,6 +492,25 @@
                 ],
                 "resourcePath": "views\/43c6121a-abb1-49e7-95d2-73c1af2ab2db.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "446c9615-3921-4c2d-bc93-d9bc1a674361",
+            "Value": {
+                "id": "4d50eb7c-3aaf-4fab-9c51-61edddc6a7f1",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/winScreen\/winScreen.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -852,6 +890,44 @@
                     "default"
                 ],
                 "resourcePath": "objects\/objPowerUpBlue\/objPowerUpBlue.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8782ce5b-0d11-4313-beff-12beb1e48ae6",
+            "Value": {
+                "id": "f66eacaa-0f3c-494c-aa80-a3287af4c9c6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/deathScreen\/deathScreen.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "89c7c1fd-ef09-45b0-947a-0ad568902ceb",
+            "Value": {
+                "id": "8e6f5749-c2e3-4e87-a357-c6b1b5ecb1d7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objLoss\/objLoss.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1290,6 +1366,25 @@
                 ],
                 "resourcePath": "views\/c2bda5f5-ee7f-4c91-acfc-46a7d33ba65c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c2f0bab4-65a0-4ae1-b7cc-27c651b70510",
+            "Value": {
+                "id": "065b652a-e38f-48c7-9712-6c0227b5a9b4",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objWin\/objWin.yy",
+                "resourceType": "GMObject"
             }
         },
         {
