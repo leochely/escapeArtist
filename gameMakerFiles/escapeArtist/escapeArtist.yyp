@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "04a2d422-c299-4fb4-a8bb-90dfbbc3a6c6",
+            "Value": {
+                "id": "77343fe9-0ade-4861-9f26-ce9a7bc478e9",
+                "resourcePath": "sprites\\sprPricklyThorns\\sprPricklyThorns.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "074c412d-21f5-4701-a98e-09b03ad6b3f1",
             "Value": {
                 "id": "cea2c021-0763-4b04-a1ff-0794c519962f",
@@ -108,6 +116,14 @@
                 "id": "63dac1fe-bfe3-41cf-9992-e28c67618e8a",
                 "resourcePath": "views\/1d8fe98d-8426-4e93-a420-0b446882ffb2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1ef9910f-3e9e-4e83-a01f-407c2d9784c3",
+            "Value": {
+                "id": "22872df9-8772-4462-bee2-cf20263225d2",
+                "resourcePath": "sprites\\sprBlemish\\sprBlemish.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -339,6 +355,14 @@
             "Value": {
                 "id": "32c4a5da-147d-4510-b689-f8e2dcd09f52",
                 "resourcePath": "objects\/objSlime\/objSlime.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "70f43436-8f5b-4414-aa2c-b105c3234e10",
+            "Value": {
+                "id": "a97be82c-26cd-4734-afdb-cc64598c1932",
+                "resourcePath": "objects\\objThorns\\objThorns.yy",
                 "resourceType": "GMObject"
             }
         },
