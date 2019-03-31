@@ -583,6 +583,14 @@
             }
         },
         {
+            "Key": "b4cdc9bd-30cf-48b9-8f63-8a81c81ffa9f",
+            "Value": {
+                "id": "02a22030-366d-41e4-8f7a-a95ef450b886",
+                "resourcePath": "fonts\\skipFont\\skipFont.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "b7cd8816-50d4-4d73-ae70-8b06bdd01c59",
             "Value": {
                 "id": "8ac19dc8-d8ae-4680-b20c-306c2559ed8e",
