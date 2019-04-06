@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "objDoorOne",
     "eventList": [
-        
+        {
+            "id": "642f494c-e438-4a2a-af46-569876e475be",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "6afde0bd-c177-4cc0-861e-1b0c84dffe2f"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
