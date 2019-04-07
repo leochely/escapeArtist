@@ -407,6 +407,14 @@
             }
         },
         {
+            "Key": "7f156a04-af2e-40e4-91a3-741f3aaa0dad",
+            "Value": {
+                "id": "2616f1fe-2c25-44e6-aab0-5ab0fb536629",
+                "resourcePath": "objects\\objRestoreHealth\\objRestoreHealth.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "804b099a-4a8c-4530-9c12-0c5b4b771719",
             "Value": {
                 "id": "7bb8469c-f088-49dd-95ab-4096909fb253",
@@ -476,6 +484,14 @@
                 "id": "99072de0-9c72-44ae-a826-a6ce087ace8f",
                 "resourcePath": "objects\/objLevelOne\/objLevelOne.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "92268aee-e07f-464d-81d2-84f43ddea2d6",
+            "Value": {
+                "id": "bff8f844-058a-4514-81e0-9e20af02d9e0",
+                "resourcePath": "sprites\\sprRestoreHealth\\sprRestoreHealth.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -762,7 +778,7 @@
             "Key": "d4fa0d90-9450-431c-9352-dad2a5d1528d",
             "Value": {
                 "id": "b6caf369-e7c0-44fc-9f25-d5a615a5146a",
-                "resourcePath": "objects\/objPpowerUpRed\/objPpowerUpRed.yy",
+                "resourcePath": "objects\\objPowerUpRed\\objPowerUpRed.yy",
                 "resourceType": "GMObject"
             }
         },
