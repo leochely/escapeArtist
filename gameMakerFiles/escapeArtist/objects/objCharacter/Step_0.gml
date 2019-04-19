@@ -2,7 +2,7 @@
 
 if(canMove){
 	image_speed = 1;
-	
+	image_index = image_index % 2;
 	// Sends player to end screnn if dead
 	if playerHealth <= 0 {
 		instance_destroy(all);

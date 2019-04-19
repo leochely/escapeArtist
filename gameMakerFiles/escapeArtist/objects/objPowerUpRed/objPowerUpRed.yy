@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "objPowerUpRed",
     "eventList": [
-        
+        {
+            "id": "9537b716-ab13-4192-9f62-0d8d935f3b1c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "d4fa0d90-9450-431c-9352-dad2a5d1528d"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
