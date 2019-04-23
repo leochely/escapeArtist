@@ -1,7 +1,7 @@
 {
     "id": "c21ece49-b1e4-4e4b-b8b8-49a76917368c",
     "modelName": "GMFont",
-    "mvc": "1.0",
+    "mvc": "1.1",
     "name": "fntMenu",
     "AntiAlias": 1,
     "TTFName": "fonts\\fntMenu\\Dirty Brush.ttf",
@@ -10,6 +10,7 @@
     "charset": 0,
     "first": 0,
     "fontName": "Sitka Small",
+    "glyphOperations": 0,
     "glyphs": [
         {
             "Key": 32,
@@ -1452,8 +1453,9 @@
             }
         }
     ],
-    "image": null,
+    "hinting": 0,
     "includeTTF": true,
+    "interpreter": 0,
     "italic": false,
     "kerningPairs": [
         {
@@ -17530,6 +17532,8 @@
         }
     ],
     "last": 0,
+    "maintainGms1Font": false,
+    "pointRounding": 0,
     "ranges": [
         {
             "x": 32,
