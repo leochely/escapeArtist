@@ -1,4 +1,4 @@
-CSCI477 - Elements of Games and Game Development
+* CSCI477 - Elements of Games and Game Development
 
 This project was created by:
 
