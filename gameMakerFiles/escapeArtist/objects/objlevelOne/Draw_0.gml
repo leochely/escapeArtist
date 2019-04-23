@@ -11,4 +11,3 @@ if (messageDisplay > 0) {
 	}
 }
 
-

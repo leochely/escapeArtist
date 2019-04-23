@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "1d26e027-77a4-4bd8-ae2d-6ad637f5709c",
+            "Value": {
+                "id": "3ad2c712-92b7-4e25-bbdd-7d55bde618da",
+                "resourcePath": "objects\\objSpawn\\objSpawn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1d4b7612-be9f-4d64-9814-042a30c277c3",
             "Value": {
                 "id": "d0a49dc6-9e2c-430f-b3f7-4ccd7ea5a026",
@@ -172,6 +180,14 @@
                 "id": "52925aa9-80d1-4423-9247-60ae86852ea2",
                 "resourcePath": "views\/28b9820c-d1aa-4ce4-b917-c7c4229375cc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2a838c10-380a-4710-b4e6-1164b203f8a3",
+            "Value": {
+                "id": "68630061-7d4c-48dc-8215-6bba002f1f08",
+                "resourcePath": "objects\\objDangerSign\\objDangerSign.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -287,11 +303,27 @@
             }
         },
         {
+            "Key": "4980c673-dc0b-4cc9-88a0-ccbb618a29c5",
+            "Value": {
+                "id": "7ca1da5a-f8c5-4ebf-bb5c-33f901669295",
+                "resourcePath": "sprites\\sprPaintingLabelBox\\sprPaintingLabelBox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4a88e198-6869-402d-a1d8-5071381c087c",
             "Value": {
                 "id": "69f3a3ec-5602-40fc-8133-e242ab8e9f42",
                 "resourcePath": "objects\/objDoorFinal\/objDoorFinal.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "510a9830-64c4-406b-93b7-4efa0d59aec5",
+            "Value": {
+                "id": "ad7a86f5-f35f-48e3-936e-bfc3b725e413",
+                "resourcePath": "sprites\\thread\\thread.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -980,6 +1012,14 @@
                 "id": "790a4692-b3f1-4b4a-a1b6-b855cbf81bf6",
                 "resourcePath": "objects\/objMusicLevel1\/objMusicLevel1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fb9e1438-93b6-4703-8017-5b00125f1e67",
+            "Value": {
+                "id": "70b41a90-0ee0-412e-b846-66e47aaf05c8",
+                "resourcePath": "sprites\\sprdANGERsIGN\\sprdANGERsIGN.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
