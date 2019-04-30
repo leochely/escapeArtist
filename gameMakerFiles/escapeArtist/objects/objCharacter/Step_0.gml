@@ -10,7 +10,7 @@ if(canMove){
 		room_goto(deathScreen)
 	}
 	
-	if(keyboard_check(vk_shift) && playerStamina > 0 && (keyboard_check(vk_up) || keyboard_check(vk_down) || keyboard_check(vk_left) || keyboard_check(vk_right))){
+	if((keyboard_check(vk_shift) || gamepad_button_check(0, gp_face1)) && playerStamina > 0 && (keyboard_check(vk_up) || keyboard_check(vk_down) || keyboard_check(vk_left) || keyboard_check(vk_right) || gamepad_button_check(0, gp_padu) || gamepad_button_check(0, gp_padr) || gamepad_button_check(0, gp_padl) || gamepad_button_check(0, gp_padd) || gamepad_axis_value(0, gp_axislv) != 0 || gamepad_axis_value(0, gp_axislh) != 0)){
 		moveSpeed = playerSpeed * 2;
 		image_speed = 2;
 		playerStamina--;
@@ -22,8 +22,8 @@ if(canMove){
 	if(keyboard_check(vk_nokey)) image_speed = 0;
 
 	// Get player direction
-	var dx = keyboard_check(vk_right) - keyboard_check(vk_left);
-	var dy = keyboard_check(vk_down) - keyboard_check(vk_up);
+	var dx = gamepad_axis_value(0, gp_axislh) + keyboard_check(vk_right) + gamepad_button_check(0, gp_padr) - keyboard_check(vk_left) - gamepad_button_check(0, gp_padl);
+	var dy = gamepad_axis_value(0, gp_axislv) + keyboard_check(vk_down) + gamepad_button_check(0, gp_padd) - keyboard_check(vk_up) - gamepad_button_check(0, gp_padu);
 	
 	if(keyboard_check(vk_right)) image_xscale = 1;
 	else if (keyboard_check(vk_left)) image_xscale =-1;
@@ -66,3 +66,11 @@ if(canMove){
 }
 
 else image_speed = 0;
+
+
+// Controller support
+
+if (num_glues > 0 && gamepad_button_check_pressed(0, gp_face3)) {
+	instance_create_layer(x, y, "Instances", objGlue)
+	num_glues--
+}

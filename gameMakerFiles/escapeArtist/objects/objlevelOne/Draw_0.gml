@@ -4,9 +4,9 @@ if (messageDisplay > 0) {
 	draw_set_font(fntMenu);
 	draw_text(500, 360, "You remember buying cheap\npaint online, but now you\nended up inside one of your\npaintings! What happened?\nAnyway, all you can do now is\ntry to escape!");
 	draw_set_font(skipFont);
-	draw_text(500, 700, "To skip, press space");
+	draw_text(500, 700, "To skip, press space or A");
 	// space bar press to skip intro
-	if (keyboard_check(vk_space)) {
+	if (keyboard_check(vk_space) || gamepad_button_check_pressed(0, gp_face1)) {
 		messageDisplay = 0;
 	}
 }
