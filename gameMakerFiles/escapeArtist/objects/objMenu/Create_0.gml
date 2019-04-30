@@ -1,6 +1,6 @@
 /// @description Creates menu
-x=416;
-y=896;
+x=room_width/2;
+y=4*room_height/5;
 
 button[0] = "Play";
 button[1] = "Exit";
